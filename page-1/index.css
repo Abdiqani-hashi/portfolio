@@ -1,0 +1,28 @@
+
+
+*{
+    box-sizing: border-box;
+}
+body{
+    
+    margin: 0;
+}
+#header .navbar{
+    background-color:var(--bg_color);
+    display: flex;
+    justify-content: flex-end;
+
+    padding: 1.6rem 1.6rem;
+   
+}
+
+
+#header .navbar a{
+   text-decoration: none;
+   color: var(--black);
+   text-transform: capitalize;
+   color: var(--white);
+   margin: 0 4rem ;
+
+   
+}

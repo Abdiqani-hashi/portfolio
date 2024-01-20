@@ -1,0 +1,11 @@
+
+html{
+    --font-family: sans-serif;
+    --font-size:32px;
+    --bg_color:#0802A3;
+    --black:black;
+    --white:#FFFFFF;
+    --upper_case:capitalize;
+    --lower_case:lowercase;
+
+}
